@@ -1,7 +1,7 @@
 <h1 align="center">Meu Primeiro App em React</h1>
 
 <p align="center">Este é o meu primeiro app em React que eu criei sozinho, recriando o meu primeiro projeto em HTML e CSS utilizando a biblioteca React.
-<br/>
+<br/><br/>
 O projeto consiste em uma página que exibe informações sobre o Filme do Batman de 2022. A página consta deste a sinopse do filme até sobre a vida dos atores e diversas fotos para ilustrar.</p>
 
 <img width="1917" alt="cap" src="https://user-images.githubusercontent.com/103613009/230684946-30f9c677-9dcc-4996-878a-d442d93f6718.png" align="center">
