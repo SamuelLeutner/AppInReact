@@ -11,11 +11,13 @@ Tecnologias Utilizadas
 <br/>
 As principais tecnologias utilizadas no desenvolvimento deste projeto foram:
 <br/>
-React
+<li>React</li>
 <br/>
-HTML
+<li>JavaScript</li>
 <br/>
-CSS
+<li>HTML</li>
+<br/>
+<li>CSS</li>
 <br/>
 </p>
 
@@ -24,5 +26,5 @@ CSS
 Foi muito interessante recriar o meu primeiro projeto em HTML e CSS utilizando React. Aprendi bastante sobre a biblioteca e consegui aplicar os conceitos básicos de forma prática e eficiente. Consegui melhorar muito mais a estilização do meu site. Espero continuar aprendendo e explorando mais sobre React e outras tecnologias no futuro.
 </p>
 
-<span align="center">Todos os direitos reservador © </span>
-<span align="center">Desenvolvido por Samuel Leutner Ferreira</span>
+<p align="center">Todos os direitos reservador © </p>
+<p align="center">Desenvolvido por Samuel Leutner Ferreira</p>
