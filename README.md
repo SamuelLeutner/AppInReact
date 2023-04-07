@@ -4,20 +4,19 @@
 <br/>
 O projeto consiste em uma página que exibe informações sobre o Filme do Batman de 2022. A página consta deste a sinopse do filme até sobre a vida dos atores e diversas fotos para ilustrar.</p>
 
-<img src="../src/images/cap.png" aling="center">
 
 <p align="center">
 Tecnologias Utilizadas
 <br/>
 As principais tecnologias utilizadas no desenvolvimento deste projeto foram:
 <br/>
-<li align="center">>React</li>
+<li align="center">React</li>
 <br/>
-<li align="center">>JavaScript</li>
+<li align="center">JavaScript</li>
 <br/>
-<li align="center">>HTML</li>
+<li align="center">HTML</li>
 <br/>
-<li align="center">>CSS</li>
+<li align="center">CSS</li>
 <br/>
 </p>
 
