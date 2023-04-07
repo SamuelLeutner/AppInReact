@@ -6,7 +6,9 @@ O projeto consiste em uma página que exibe informações sobre o Filme do Batma
 
 
 <p align="center">
-Tecnologias Utilizadas
+
+<h2 align="center">Tecnologias Utilizadas</h2>
+
 <br/>
 As principais tecnologias utilizadas no desenvolvimento deste projeto foram:
 <br/>
@@ -20,10 +22,10 @@ As principais tecnologias utilizadas no desenvolvimento deste projeto foram:
 <br/>
 </p>
 
-<h2 align="center">Conclusão</h1>
+<h2 align="center">Conclusão</h2>
 <p align="center">
 Foi muito interessante recriar o meu primeiro projeto em HTML e CSS utilizando React. Aprendi bastante sobre a biblioteca e consegui aplicar os conceitos básicos de forma prática e eficiente. Consegui melhorar muito mais a estilização do meu site. Espero continuar aprendendo e explorando mais sobre React e outras tecnologias no futuro.
 </p>
 
-<p align="center">Todos os direitos reservador © </p>
-<p align="center">Desenvolvido por Samuel Leutner Ferreira</p>
+<h3 align="center">Todos os direitos reservador © </h3>
+<h3 align="center">Desenvolvido por Samuel Leutner Ferreira</h3>
