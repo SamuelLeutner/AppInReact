@@ -11,7 +11,7 @@ O projeto consiste em uma página que exibe informações sobre o Filme do Batma
 <h2 align="center">Tecnologias Utilizadas</h2>
 
 <br/>
-As principais tecnologias utilizadas no desenvolvimento deste projeto foram:
+<p align="Center">As principais tecnologias utilizadas no desenvolvimento deste projeto foram:</p>
 <br/>
 <li align="center">React</li>
 <br/>
