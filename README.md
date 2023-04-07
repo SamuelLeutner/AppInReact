@@ -4,7 +4,7 @@
 <br/>
 O projeto consiste em uma página que exibe informações sobre o Filme do Batman de 2022. A página consta deste a sinopse do filme até sobre a vida dos atores e diversas fotos para ilustrar.</p>
 
-![Uploading cap.png…]()
+<img width="1917" alt="cap" src="https://user-images.githubusercontent.com/103613009/230684684-a242a380-9aa2-4ff2-901b-93b00e586b97.png">
 
 <p align="center">
 
