@@ -1,0 +1,39 @@
+#sinopse {
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin-left: 30px;
+}
+
+#banner4 {
+  background-image: url('https://www.dslweb.de/public/resources/images/anbieter/sky/sky-the-batman-aufmacher.jpg');
+  background-position: center;
+  background-size: cover;
+  width: 100%;
+  height: 600px;
+}
+
+.body-text {
+  margin-top: 70px;
+  font-family: 'Kdam Thmor Pro',sans-serif;
+  color: white;
+  font-weight: 500;
+}
+
+.synopsis_content {
+  height: auto;
+  margin: 30px auto 8%;
+  width: 100%;
+  max-width: 80%;
+}
+
+
+.text-story {
+  font-family: 'Kdam Thmor Pro',sans-serif;
+  text-align: justify;
+  font-weight: 400;
+  font-size: 18px;
+  color: white;
+  box-sizing: border-box;
+}

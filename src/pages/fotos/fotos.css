@@ -1,0 +1,218 @@
+#banner2 {
+  background-image: url('https://a-static.besthdwallpaper.com/the-batman-2022-robert-pattinson-batman-zoe-kravitz-catwoman-wallpaper-2880x1620-92779_52.jpg');
+  background-position: 50% 50%;
+  background-size: cover;
+  background-position: top;
+  width: 100%;
+  height: 600px;
+}
+
+.actor-cards-fotos {
+  height: 600px;
+  background-size: cover;
+  background-position: 50% 50%;
+  border-radius: 5px;
+  transition: 1s;
+  display: flex;
+  flex-direction: column;
+  justify-content:space-around;
+  padding: 0 0 20px 10px;
+  box-sizing: border-box;
+  margin: 100px;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  row-gap: 20px;
+  column-gap: 40px;
+}
+
+
+
+.card-banner1 {
+  background-image: url('https://legadodadc.com.br/wp-content/uploads/2021/11/FD1yq6PWUAYeJUv.jpg');
+  height: 600px;
+  background-size: cover;
+  background-position: 50% 50%;
+  border-radius: 5px;
+  transition: 1s;
+  display: flex;
+  flex-direction: column;
+  justify-content:space-around;
+  padding: 0 0 20px 10px;
+  box-sizing: border-box;
+}
+
+
+.card-banner2 {
+  background-image: url('https://i.pinimg.com/736x/42/bc/35/42bc356fe3db8e6d1976a81b81cf7991.jpg');
+  height: 600px;
+  background-size: cover;
+  background-position: 50% 50%;
+  border-radius: 5px;
+  transition: 1s;
+  display: flex;
+  flex-direction: column;
+  justify-content:space-around;
+  padding: 0 0 20px 10px;
+  box-sizing: border-box;
+}
+
+.card-banner3 {
+  background-image: url('https://m.media-amazon.com/images/M/MV5BMDdmMTBiNTYtMDIzNi00NGVlLWIzMDYtZTk3MTQ3NGQxZGEwXkEyXkFqcGdeQXVyMzMwOTU5MDk@._V1_FMjpg_UX1000_.jpg');
+  height: 600px;
+  background-size: cover;
+  background-position: 50% 50%;
+  border-radius: 5px;
+  transition: 1s;
+  display: flex;
+  flex-direction: column;
+  justify-content:space-around;
+  padding: 0 0 20px 10px;
+  box-sizing: border-box;
+}
+
+.card-banner4 {
+  background-image: url('https://trecobox.com.br/wp-content/uploads/2022/03/the-batman-foto-divulgacao.jpg');
+  width: 100%;
+  height: 600px;
+  background-size: cover;
+  background-position: 50% 50%;
+  border-radius: 5px;
+  transition: 1s;
+  display: flex;
+  flex-direction: column;
+  justify-content:space-around;
+  padding: 0 0 20px 10px;
+  box-sizing: border-box;
+}
+
+.card-banner5 {
+  background-image: url('https://t2.tudocdn.net/614415?w=1200&h=1200');
+  width: 100%;
+  height: 600px;
+  background-size: cover;
+  background-position: 50%;
+  border-radius: 5px;
+  transition: 1s;
+  display: flex;
+  flex-direction: column;
+  justify-content:space-around;
+  padding: 0 0 20px 10px;
+  box-sizing: border-box;
+
+}
+
+.card-banner6 {
+  background-image: url('https://img.olhardigital.com.br/wp-content/uploads/2022/02/Charada-em-The-Batman.jpg');
+  width: 100%;
+  height: 600px;
+  background-size: cover;
+  background-position: 50% 50%;
+  border-radius: 5px;
+  transition: 1s;
+  display: flex;
+  flex-direction: column;
+  justify-content:space-around;
+  padding: 0 0 20px 10px;
+  box-sizing: border-box;
+}
+
+.card-banner7 {
+  background-image: url('https://pbs.twimg.com/media/FNbgGHqWQAg0aKw?format=jpg&name=900x900');
+  width: 100%;
+  height: 600px;
+  background-size: cover;
+  background-position: 40%;
+  border-radius: 5px;
+  transition: 1s;
+  display: flex;
+  flex-direction: column;
+  justify-content:space-around;
+  padding: 0 0 20px 10px;
+  box-sizing: border-box;
+}
+
+.card-banner8 {
+  background-image: url('https://t.ctcdn.com.br/ea0zvh5wbzn9RRXnYKUOzh2mbiI=/1024x0/smart/i360687.jpeg');
+  width: 100%;
+  height: 600px;
+  background-size: cover;
+  background-position: 50% 50%;
+  border-radius: 5px;
+  transition: 1s;
+  display: flex;
+  flex-direction: column;
+  justify-content:space-around;
+  padding: 0 0 20px 10px;
+  box-sizing: border-box;
+}
+
+.card-banner9 {
+  background-image: url('https://img.elo7.com.br/product/zoom/3FBBEDD/big-poster-filme-batman-2022-90x60-cm-lo006-poster.jpg');
+  width: 100%;
+  height: 600px;
+  background-size: cover;
+  background-position: 50% 50%;
+  border-radius: 5px;
+  transition: 1s;
+  display: flex;
+  flex-direction: column;
+  justify-content:space-around;
+  padding: 0 0 20px 10px;
+  box-sizing: border-box;
+}
+
+.card-banner10 {
+  background-image: url('https://uauposters.com.br/media/catalog/product/cache/1/thumbnail/800x930/9df78eab33525d08d6e5fb8d27136e95/2/5/258720220222-uau-posters-the-batman-filmes-1.jpeg.jpg');
+  width: 100%;
+  height: 600px;
+  background-size: cover;
+  background-position: 50% 50%;
+  border-radius: 5px;
+  transition: 1s;
+  display: flex;
+  flex-direction: column;
+  justify-content:space-around;
+  padding: 0 0 20px 10px;
+  box-sizing: border-box;
+}
+
+.card-banner11 {
+  background-image: url('https://mlpnk72yciwc.i.optimole.com/cqhiHLc.IIZS~2ef73/w:auto/h:auto/q:75/https://bleedingcool.com/wp-content/uploads/2022/02/batman_ver15_xxlg.jpg');
+  width: 100%;
+  height: 600px;
+  background-size: cover;
+  background-position: 50% 50%;
+  border-radius: 5px;
+  transition: 1s;
+  display: flex;
+  flex-direction: column;
+  justify-content:space-around;
+  padding: 0 0 20px 10px;
+  box-sizing: border-box;
+}
+
+.card-banner12 {
+  background-image: url('https://pbs.twimg.com/media/FKhaIc3XMAQJ4rx?format=jpg&name=medium');
+  width: 100%;
+  height: 600px;
+  background-size: cover;
+  background-position: 50% 50%;
+  border-radius: 5px;
+  transition: 1s;
+  display: flex;
+  flex-direction: column;
+  justify-content:space-around;
+  padding: 0 0 20px 10px;
+  box-sizing: border-box;
+}
+
+#banner3 {
+  background-image: url('https://multiversomais.com/wp-content/uploads/2022/03/the-batman-3.jpg');
+  background-position: 50% 50%;
+  background-size: cover;
+  justify-content:space-around;
+  background-position: bottom;
+  border-radius: 5px;
+  margin: 100px;
+  height: 600px;
+}

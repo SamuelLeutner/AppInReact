@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Kdam+Thmor+Pro&family=Roboto:wght@300&display=swap');
+
+* {
+  list-style: none;
+  text-decoration: none;
+}
+
+.actor-cards-container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+  background-color: #000;
+}
+
+.cards-content {
+  width: 90%;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  row-gap: 20px;
+  column-gap: 40px;
+  list-style: none;
+  text-decoration: none;
+}
+
+.card {
+  width: 100%;
+  height: 600px;
+  background-size: cover;
+  background-position: 50% 50%;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: 1s;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  padding: 0 0 20px 10px;
+  color: #fff;
+  font-size: 17px;
+  font-family: 'Kdam Thmor Pro',sans-serif;
+}
+
+.card:hover {
+  transform: scale(1.02);
+}
+
+
+.banner-1 {
+  background-image: url('https://cinemaeafins.com.br/wp-content/uploads/2021/10/The-Batman-2022-elenco.jpg');
+}
+
+.banner-2 {
+  background-image: url('https://poltronanerd.com.br/wp-content/uploads/2022/03/poltrona-zoe-mulher-gato.jpg');
+}
+
+.banner-3 {
+  background-image: url('https://rollingstone.uol.com.br/media/uploads/andy_serkis_em_the_batman_foto_divulgacao__warner_bros..jpg');
+}

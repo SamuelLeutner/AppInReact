@@ -1,0 +1,11 @@
+.button {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  height: 50px;
+  width: 150px;
+  background: linear-gradient(180deg, #807ece 0%, #8e7ece 100%);
+  display: flex;
+  flex-direction: center;
+  align-items: center;
+}
