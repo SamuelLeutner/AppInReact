@@ -1,4 +1,4 @@
-<h1 align="center">Meu Primeiro App em React</h1>
+<h1 align="center">App em React</h1>
 
 <p align="center">Este é um app em React recriando o meu primeiro projeto em HTML e CSS..
 <br/><br/>
